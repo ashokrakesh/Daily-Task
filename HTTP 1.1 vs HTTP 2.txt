@@ -1,0 +1,23 @@
+HTTP - 
+
+HTTP stands for hypertext transfer protocol & it is used in client-server communication.
+
+By using HTTP user sends the request to the server & the server sends the response to the user. 
+
+HTTP/1.1 was created in 1997 and HTTP/2 was created in 2015.
+
+HTTP 1.1 -It works on the textual format.
+
+          There is head of line blocking that blocks all the requests behind it until it doesn’t get its all resources
+ 
+          It compresses data by itself.	
+
+HTTP/2
+
+          It works on the binary protocol.
+
+          It allows multiplexing so one TCP connection is required for multiple requests.
+
+          It uses HPACK for data compression.
+
+
